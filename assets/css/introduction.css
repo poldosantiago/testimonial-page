@@ -45,3 +45,10 @@
 /*
 https://www.reddit.com/r/css/comments/yu45hl/whats_the_correct_way_of_using_an_svg_as_a_bullet/
 */
+
+@media only screen and (max-width: 600px) {
+	.introduction{
+        margin-right: 0px;
+        padding: 72px;
+    }
+}
