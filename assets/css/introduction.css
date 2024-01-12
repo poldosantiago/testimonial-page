@@ -1,0 +1,47 @@
+.introduction{
+    width: 500px;
+    margin-right: 100px;
+}
+
+.introduction__img{
+    background-color: var(--color1);
+    clip-path: circle(50% at 50% 50%);
+    width:34px;
+    height: 34px;
+    margin-bottom: 16px;
+    stroke: #F5C044;
+    fill: #FFFFFF;
+    /* width="24" height="24" */
+}
+
+.introduction__title{
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.introduction__par{
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 32px;
+}
+
+.introduction__item{
+    font-size: 14px;
+    line-height: 32px;
+}
+
+.introduction__item::before {
+    content: '';
+    display: inline-block;
+    height: 1.3rem;
+    width: 1.3rem;
+    vertical-align: middle;
+    background-image: url("../img/Done_ring_round_fill.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 0.5rem;
+}
+/*
+https://www.reddit.com/r/css/comments/yu45hl/whats_the_correct_way_of_using_an_svg_as_a_bullet/
+*/
