@@ -4,7 +4,7 @@ Página de comentários. Ela foi construída para participar do desafio proposto
 
 Para conferir o resultado, clique [aqui](https://testimonial-page-seven.vercel.app/).
 
-A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/29).
+A página do desafio pode ser acessada [aqui](https://devchallenges.io/challenge/testimonial-page).
 
 ## Experiência
 
